@@ -23,9 +23,9 @@ A web-based restaurant management system built with **ASP.NET and SQL Server**.
 
 ## 📸 Screenshots
 
-![Table Order](assets/screenshot1.png)
-![Reservation](assets/screenshot2.png)
-![Dashboard](assets/screenshot3.png)
+![Table Order](assets/rs.png)
+![Reservation](assets/rs2.png)
+![Dashboard](assets/rs3.png)
 
 ---
 
