@@ -1,2 +1,41 @@
-# restaurant-management-system
-A complete restaurant management system built using ASP.NET and SQL Server. Features include table reservations, order management, supplier tracking, expenses, and admin dashboards.
+# 🍽️ Restaurant Management System
+
+A web-based restaurant management system built with **ASP.NET and SQL Server**.
+
+---
+
+## 🔧 Features
+
+- Table reservation and order placement
+- Supplier and inventory management
+- Expense and purchase tracking
+- Report generation and employee modules
+
+---
+
+## 🛠 Technologies Used
+
+- Frontend: ASP.NET Web Forms
+- Backend: C# and SQL Server
+- Tools: Visual Studio
+
+---
+
+## 📸 Screenshots
+
+![Table Order](assets/screenshot1.png)
+![Reservation](assets/screenshot2.png)
+![Dashboard](assets/screenshot3.png)
+
+---
+
+## 💡 Purpose
+
+This project helps streamline restaurant operations and provides a full-featured solution for digital restaurant management.
+
+---
+
+## 👤 Developed By
+
+**Sujan Khair**  
+📧 sujankhair864@gmail.com
